@@ -2,6 +2,16 @@
     {
         "id": "83ecd3ed-be58-4a11-9182-a069f01db8be",
         "timestamp": "2026-01-26 06:30:21",
-        "message": "Day3: uuid/json/datetime \u3092\u5b66\u7fd2"
+        "message": "Day3: uuid/json/datetime を学習"
+    },
+    {
+        "id": "944e91a5-0af4-4ada-83b7-5af6a3890797",
+        "timestamp": "2026-01-26 10:35:51",
+        "message": "Day4: logging を学習"
+    },
+    {
+        "id": "7bd37109-42c3-4438-9a7a-674c43fb364f",
+        "timestamp": "2026-02-02 07:26:30",
+        "message": "Day6: CLIツール完成"
     }
 ]
