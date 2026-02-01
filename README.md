@@ -31,8 +31,8 @@ python -m venv venv
 venv\Scripts\activate
 ```
 ## 使い方
-ログ追加    例: python app/main.py add "Day6: CLIツール完成"
-一覧表示    例: python app/main.py list
-直近N件表示 例: python app/main.py tail 3
-削除        python app/main.py delete <id>
+- ログ追加    例: python app/main.py add "Day6: CLIツール完成"
+- 一覧表示    例: python app/main.py list
+- 直近N件表示 例: python app/main.py tail 3
+- 削除        python app/main.py delete <id>
 
