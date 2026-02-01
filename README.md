@@ -14,7 +14,7 @@
 ---
 
 ## 使用技術
-- Python 3.x
+- Python 3.11.9
 - 標準ライブラリ
   - argparse
   - pathlib
